@@ -35,10 +35,11 @@ button.clear {
 }
 
 .message {
-  background-color: #cfd8dc;
+  background-color: rgb(73, 133, 193);
+  box-shadow: 2px 4px 8px #000;
+  color: white;
   width: 25%;
   padding: 5px;
   border-radius: 3px;
-  box-shadow: 1px 2px 4px;
   margin-bottom: 10px;
 }
